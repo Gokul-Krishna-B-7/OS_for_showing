@@ -1,2 +1,2 @@
 # OS_for_showing
-For Rohan Mano
+Exclusively for Rohan Mano
